@@ -140,4 +140,4 @@ streamlit run app/streamlit_app.py
 ## 👤 Автор
 
 **Аты-жөні:** Набиев Батырбек  
-**GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**GitHub:** [@batyrjackson](https://github.com/YOUR_USERNAME)
